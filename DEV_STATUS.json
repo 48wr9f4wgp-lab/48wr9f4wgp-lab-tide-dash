@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "phase": "品質確認",
+  "checks": {
+    "boot": "na",
+    "test": "na",
+    "device": "warn",
+    "save": "na",
+    "analytics": "na",
+    "performance": "na",
+    "release": "ok"
+  },
+  "next": "公開ビルドをiPhoneで確認する",
+  "note": "品質確認用の配布リポジトリ。アプリ本体の起動・保存・分析計測などはこのRepoでは対象外。",
+  "updated_at": "2026-09-15"
+}
